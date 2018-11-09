@@ -1,0 +1,12 @@
+SMAP
+clientes_005fenviar_jsp.java
+JSP
+*S JSP
+*F
++ 0 clientes_enviar.jsp
+clientes_enviar.jsp
+*L
+1,115:45
+117,14:162
+130,74:176
+*E
