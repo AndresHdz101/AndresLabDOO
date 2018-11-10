@@ -1,8 +1,4 @@
-<%-- 
-    Document   : tblusers
-    Created on : Nov 7, 2018, 1:15:49 AM
-    Author     : Lino
---%>
+
 <%@ page import="java.sql.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
